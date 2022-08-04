@@ -1,5 +1,5 @@
-const num = //seu numero aqui
+const num = 46
 
-if(){
-    console.log("sua mensagem aqui");
+if(num % 2 === 0){
+    console.log("seu número é divisivel por 2");
 }
